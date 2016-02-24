@@ -1,4 +1,5 @@
-.*.swp
+.*swp
 npx
 
 oprofile_data
+SDL-1.2.15
